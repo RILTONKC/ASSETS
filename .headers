@@ -1,0 +1,20 @@
+[
+  {
+    "applyTo": "collect%3F-6146d0cc",
+    "headers": [
+      {
+        "name": "header-name",
+        "value": "kraviscloud"
+      }
+    ]
+  },
+  {
+    "applyTo": "*",
+    "headers": [
+      {
+        "name": "header-name-1",
+        "value": "header value"
+      }
+    ]
+  }
+]
