@@ -1,6 +1,6 @@
 {
   "script-runner": {
-    "defaultConfig": "ethers6",
+    "defaultConfig": "default",
     "customConfig": {
       "baseConfiguration": "default",
       "dependencies": []
